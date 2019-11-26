@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "633840385661",
+    "firebase_url": "https://onsignalandroid-9a966.firebaseio.com",
+    "project_id": "onsignalandroid-9a966",
+    "storage_bucket": "onsignalandroid-9a966.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633840385661:android:17a7048f9c8966bb",
+        "android_client_info": {
+          "package_name": "com.vsac.ankasani.vsacas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633840385661-0afab013jr7qabd0s2v0vhqgssrj3cka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6AMfgqpVRHz2NhotkX7JQ2_za_QeG1Rk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633840385661-0afab013jr7qabd0s2v0vhqgssrj3cka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
